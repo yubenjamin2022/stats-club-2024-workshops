@@ -15,7 +15,7 @@ Introduction to the basics of Tableau and how to import and create graphics from
 
 Developed by Reeshad Mohammed
 
-## [Winter 2025 Workshops](https://github.com/yubenjamin2022/stats-club-2024-workshops/tree/main/Winter%202025%20Workshops)
+## [Winter 2025 Workshops](https://github.com/yubenjamin2022/stats-club-2024-workshops/tree/main/Winter%202025%20Workshops/Datathon)
 
 ### [Exploratory Data Analysis](https://github.com/yubenjamin2022/stats-club-2024-workshops/tree/main/Winter%202025%20Workshops/Exploratory%20Data%20Analysis)
 
