@@ -28,3 +28,17 @@ Developed by Benjamin Yu and Jessica Ye
 Basic datahon for freshmen and sophomores.
 
 Developed by Benjamin Yu, Reeshad Mohammed, Jessica Ye, Annabelle Lee and Josh Rusit
+
+### [Introduction to ML](https://github.com/yubenjamin2022/stats-club-2024-workshops/tree/main/Winter%202025%20Workshops/Introduction%to%ML)
+
+Introduction to basic ML concepts and how to program basic ML models 
+
+Developed by Benjamin Yu and Reeshad Mohammed
+
+## [Spring 2025 Workshops](https://github.com/yubenjamin2022/stats-club-2024-workshops/tree/main/Spring%202025%20Workshops)
+
+### [Introduction to LLM APIs](https://github.com/yubenjamin2022/stats-club-2024-workshops/tree/main/Spring%202025%20Workshops/Introduction%20to%20LLM%20APIs)
+
+Developed by Benjamin Yu and Reeshad Mohammed 
+
+Introduction to prompting LLMs with APIs and basic additions such as CoT and RAG. 
