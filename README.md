@@ -29,7 +29,7 @@ Basic datahon for freshmen and sophomores.
 
 Developed by Benjamin Yu, Reeshad Mohammed, Jessica Ye, Annabelle Lee and Josh Rusit
 
-### [Introduction to ML](https://github.com/yubenjamin2022/stats-club-2024-workshops/tree/main/Winter%202025%20Workshops/Introduction%to%ML)
+### [Introduction to ML](https://github.com/yubenjamin2022/stats-club-2024-workshops/tree/main/Winter%202025%20Workshops/Introduction%20to%20ML)
 
 Introduction to basic ML concepts and how to program basic ML models 
 
