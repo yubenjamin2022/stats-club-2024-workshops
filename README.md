@@ -42,3 +42,9 @@ Developed by Benjamin Yu and Reeshad Mohammed
 Developed by Benjamin Yu and Reeshad Mohammed 
 
 Introduction to prompting LLMs with APIs and basic additions such as CoT and RAG. 
+
+### [Introduction to SQL](https://github.com/yubenjamin2022/stats-club-2024-workshops/tree/main/Spring%202025%20Workshops/Introduction%20to%20SQL)
+
+Developed by Jessica Ye and Annabelle Lee
+
+Introduction to basic SQL.
